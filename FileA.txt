@@ -1,2 +1,2 @@
 This is FileA
-Chane in FileA
+Change in FileA
